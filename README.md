@@ -3,7 +3,7 @@
 This project leverages Natural Language Processing (NLP) techniques to analyze customer reviews of airlines, providing actionable insights into passenger satisfaction. By applying sentiment analysis on data from **Airline Quality**, we aim to uncover key trends and identify improvement areas for airlines.
 
 ## 📝 Project Overview
-We conducted sentiment analysis on over 64,000 customer reviews to determine the factors that contribute to positive or negative experiences. Our analysis covers both domestic and international flights, with a focus on key service categories such as seat comfort, cabin staff, inflight entertainment, and Wi-Fi connectivity.
+We conducted sentiment analysis on over 200,000 customer reviews to determine the factors that contribute to positive or negative experiences. Our analysis covers both domestic and international flights, with a focus on key service categories such as seat comfort, cabin staff, inflight entertainment, and Wi-Fi connectivity.
 
 ### Key Objectives:
 - **Sentiment Analysis**: Compare sentiment scores using **VADER** and **TextBlob**.
@@ -12,7 +12,7 @@ We conducted sentiment analysis on over 64,000 customer reviews to determine the
 
 ## 📊 Data Summary
 - **Source**: Airline reviews from **Kaggle**.
-- **Size**: 64,172 reviews with multiple variables.
+- **Size**: 200,000 reviews with multiple variables.
 - **Key Columns**:
   - `Airline Name`: The airline being reviewed.
   - `Overall Rating`: Customer's rating (0-9).
